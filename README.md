@@ -49,6 +49,8 @@
 
 ###
 
-<p align="left">See more at my website <a href="https://brentspine.de">https://brentspine.de</a></p>
+<p align="left">See more at my portfolio website <a href="https://github.brentspine.io">https://github.brentspine.io</a></p>
+<p align="left">Also check out my website with all kinds of stuff at <a href="https://brentspine.de">https://brentspine.de</a></p>
+
 
 ###
