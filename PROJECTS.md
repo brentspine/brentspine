@@ -1,0 +1,8 @@
+ - Automatic updates on README
+ - https://unlockedmail.de
+ - Chess.com bot to automatically farm achievements
+ - Random discord skid tools for clout
+ - Fränzii Projekt irgendwas süßes idk
+   - USB-Stick Rätsel
+ - SoloLearn Bot v2
+ - leetcode, rootme
