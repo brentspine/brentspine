@@ -47,10 +47,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
+
 ###
 
 <p align="left">See more at my portfolio website <a href="https://brentspine.github.io">https://brentspine.github.io</a></p>
 <p align="left">Also check out my website with all kinds of stuff at <a href="https://brentspine.de">https://brentspine.de</a></p>
 
 
-###
+##
+
+<i>Reminder for myself to build <a href="https://github.com/Kuuuuuuuu/Kuuuuuuuu">something like this</a></i>
+
