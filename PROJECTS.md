@@ -7,3 +7,4 @@
  - SoloLearn Bot v2
  - leetcode, rootme
  - finish https://brentspine.github.io
+ - Charge desk automations
