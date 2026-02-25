@@ -39,13 +39,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
@@ -56,6 +56,13 @@
 <p align="left">See more at my portfolio website <a href="https://brentspine.github.io">https://brentspine.github.io</a></p>
 <p align="left">Also check out my website with all kinds of stuff at <a href="https://brentspine.de">https://brentspine.de</a></p>
 
+##
+
+Recent Open Source Support:
+ - Donated 50€ to [HeidiSQL](https://www.heidisql.com/)
+ - Active Sponsor for [Paper](https://github.com/PaperMC)
+ - Donated 50€ to [Internet Archive](https://archive.org/)
+ - Donated 20€ to [Spigot](https://www.spigotmc.org/)
 
 ##
 
