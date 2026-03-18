@@ -59,6 +59,7 @@
 ##
 
 Recent Open Source Support:
+ - Volunteer Supporter & Bughunter at [NoRiskClient](https://github.com/NoRiskClient) 
  - Donated 50€ to [HeidiSQL](https://www.heidisql.com/)
  - Active Sponsor for [Paper](https://github.com/PaperMC)
  - Donated 50€ to [Internet Archive](https://archive.org/)
