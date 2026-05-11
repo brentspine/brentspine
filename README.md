@@ -61,7 +61,7 @@
 Recent Open Source Support:
  - Monthly Donator for [GreenPeace Germany](https://www.greenpeace.de/)
  - Donated 15$ to [JDownloader](https://jdownloader.org/)
- - Volunteer Supporter & Bughunter at [NoRiskClient](https://github.com/NoRiskClient) 
+ - Staff Manager at [NoRiskClient](https://github.com/NoRiskClient) 
  - Donated 50€ to [HeidiSQL](https://www.heidisql.com/)
  - Active Sponsor for [Paper](https://github.com/PaperMC)
  - Donated 50€ to [Internet Archive](https://archive.org/)
